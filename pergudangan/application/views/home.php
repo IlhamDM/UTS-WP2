@@ -3,12 +3,12 @@
             <!-- Content Header (Page header) -->
             <section class="content-header">
                 <h1>
-                    Biodata
+                    Home
                     <small>Control panel</small>
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
-                    <li class="active">Biodata</li>
+                    <li class="active">feeling like home</li>
                 </ol>
             </section>
 
@@ -16,11 +16,11 @@
                 <!-- Profile Image -->
                 <div class="box box-primary">
                     <div class="box-body box-profile">
-                        <img class="img img-responsive img-rounded" style="display: block; margin: auto;" width="150px" src="<?php echo base_url() ?>assets/dist/img/Devil.png" alt="Devil">
+                        <img class="img img-responsive img-rounded" style="display: block; margin: auto;" width="50%" src="<?php echo base_url() ?>assets/dist/img/ware.png" alt="ware">
 
-                        <h3 class="profile-username text-center">Dimas Ilham Mardiyanto</h3>
+                        <h3 class="profile-username text-center">Gudang Simpel</h3>
 
-                        <p class="text-muted text-center">Student of college Poltek Harber Tegal </p>
+                        <p class="text-muted text-center"> since 2020</p>
 
                         <ul class="list-group list-group-unbordered">
                             <li class="list-group-item" style="text-align: center;">
@@ -28,19 +28,18 @@
                                 <p>Balapulang Wetan</p>
                             </li>
                             <li class="list-group-item" style="text-align: center;">
-                                <b>Hobby</b>
-                                <p>Watching Anime</p>
+                                <b>Service</b>
+                                <p>Store your any stuff</p>
                             </li>
                             <li class="list-group-item" style="text-align: center;">
-                                <b>Gender</b>
-                                <p>Male</p>
+                                <b>Motto</b>
+                                <p>Saving your stuff like our own stuff</p>
                             </li>
                             <li class="list-group-item" style="text-align: center;">
-                                <b>Find me on : </b>
+                                <b>Find us : </b>
                                 <p>
-                                    <a href="https://soundcloud.com/official-gjl" style="color: black;"><i class="fa fa-soundcloud fa-3x"></i></a>
+                                    <a href="https://soundcloud.com/official-gjl" style="color: black;"><i class="fa fa-globe fa-3x"></i></a>
                                     <a href="https://www.youtube.com/channel/UClAu6b9VVwhPCQKajmvsc7g" style="color: black;"><i class="fa fa-youtube-play fa-3x"></i></a>
-                                    <a href="https://github.com/IlhamDM/" style="color: black;"><i class="fa fa-github fa-3x"></i></a>
                                     <a href="mailto:dimasilham517@gmail.com" style="color: black;"><i class="fa fa-google fa-3x"></i></a>
                                     <a href="https://www.instagram.com/ilham_dm07/" style="color: black;"><i class="fa fa-instagram fa-3x"></i></a>
                                 </p>

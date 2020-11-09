@@ -5,12 +5,12 @@
             <small>Control Panel</small>
         </h1>
         <ol class="breadcrumb">
-            <li><a href="#"><i class="fa fa-dashboard"></i> Home </a></li>
+            <li><a href="#"><i class="fa fa-home"></i> Home </a></li>
             <li class="active">Stok</li>
         </ol>
     </section>
     <section class="content">
-        <table class="table">
+        <table class="table table-bordered">
             <tr>
                 <th>No</th>
                 <th>ID Rak</th>

@@ -28,6 +28,17 @@
             <li class="header">MAIN NAVIGATION</li>
             <li class="active treeview">
                 <a href="#">
+                    <i class="fa fa-home"></i> <span>Home</span>
+                    <span class="pull-right-container">
+                        <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                </a>
+                <ul class="treeview-menu">
+                    <li><a href="http://localhost/pergudangan/home"><i class="fa fa-home"></i> Home </a></li>
+                </ul>
+            </li>
+            <li class="active treeview">
+                <a href="#">
                     <i class="fa fa-dropbox"></i> <span>Barang</span>
                     <span class="pull-right-container">
                         <i class="fa fa-angle-left pull-right"></i>
